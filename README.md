@@ -37,5 +37,5 @@ A proactive monitoring system that scans the market every 5 minutes. It sends in
 
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/SSC-Scholar-Trader-Bot.git](https://github.com/YOUR_USERNAME/SSC-Scholar-Trader-Bot.git)
-   cd SSC-Scholar-Trader-Bot
+   git clone [https://github.com/ImSnigdho/SSC-Scholar-Trader-Agent.git](https://github.com/ImSnigdho/SSC-Scholar-Trader-Agent.git)
+   cd SSC-Scholar-Trader-Agent
