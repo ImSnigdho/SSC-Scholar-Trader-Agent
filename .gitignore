@@ -1,0 +1,4 @@
+".env" 
+".openclaw/" 
+"node_modules/" 
+"*.log" 

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "alpha": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "computedHash": "4c00d1fde8897cfe129d2bfc802ecc6aaee91787d0cc3ed20583c354a222fa06"
+    },
+    "crypto-market-rank": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "computedHash": "3dcf63d5559032f4d19760d2f0cc8b5fa2a692d2e5634a44d9ccbe25ec261d5f"
+    },
+    "query-token-info": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "computedHash": "8987fb054fcf62c65782c1c5b6d7d396c4761bd8c245f89a56dca834e6b184f6"
+    },
+    "spot": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "computedHash": "5d86c6574678f1fbe9206ab54d60023008669c782ddfc41130f05e75472c860d"
+    },
+    "trading-signal": {
+      "source": "binance/binance-skills-hub",
+      "sourceType": "github",
+      "computedHash": "9bf2bf36d65ed4b2a754b2e3cbf86e8a4fbb8aea0397db31d4ea9fe6f25efd10"
+    }
+  }
+}
