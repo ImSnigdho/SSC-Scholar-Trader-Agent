@@ -29,7 +29,7 @@ A proactive monitoring system that scans the market every 5 minutes. It sends in
 * **Framework:** [OpenClaw](https://github.com/open-claw/open-claw) (2026.3.13)
 * **Trading APIs:** Binance Spot/Perpetual, Bybit V5
 * **Language:** Python, PowerShell
-* **Intelligence:** Gemini 3 Flash (via OpenClaw Gateway)
+* **Intelligence:** Hunter Alpha (via OpenClaw Gateway)
 
 ---
 
