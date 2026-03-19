@@ -1,36 +1,39 @@
-# 🦞 SSC Scholar-Trader: AI Agent for Binance & Bybit
+# 🦞 SSC Scholar-Trader: The Ultimate AI Agent for Student-Traders
+**An Autonomous Assistant built on the OpenClaw Framework with GLM-4.5-Air Integration.**
 
-[![OpenClaw Version](https://img.shields.io/badge/OpenClaw-2026.3.13-blueviolet)](https://openclaw.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## 📖 Project Overview
-The **SSC Scholar-Trader** is an autonomous AI agent built for the **Binance Little Lobster Competition**. As an SSC 2026 candidate, I designed this bot to solve a personal challenge: balancing high-volatility crypto trading with intensive academic preparation.
-
-The bot leverages the **OpenClaw** framework to monitor the market, perform cross-exchange arbitrage, and execute risk-management strategies—allowing the user to stay focused on their studies.
+The **SSC Scholar-Trader** is designed to solve a unique problem: how to stay informed in the high-stakes world of crypto trading while maintaining the strict discipline required for academic excellence (specifically for the Bangladesh SSC 2026 exams).
 
 ---
 
-## ✨ Key Features
+##  Feature Arsenal
 
-### 🛡️ Study-Guard Logic (SSC Mode)
-* Automatically tightens stop-losses on Binance and Bybit.
-* Silences non-essential notifications.
-* Moves active positions to USDT if unpredictable volatility (>5%) is detected.
+### 💰 Financial Intelligence (Binance & Bybit)
+* **Multi-Exchange Monitoring:** Live balance checks for Binance and Bybit.
+* **Real-time Data:** BTC/BNB/ETH price feeds and 24h volume tracking.
+* **Deep Analysis:** Order book spread analysis and Bybit funding rate checks.
+* **Logic Reports:** AI-driven technical and sentiment analysis to simplify market noise.
 
-### ⚖️ Dual-Exchange Arbitrage
-Monitors price spreads between **Binance** and **Bybit** for $BTC and $LOBSTER, ensuring trades are always executed on the exchange with the most favorable price.
+### 📚 Productivity & Study-Guard
+* **Pomodoro Integration:** Automated 50/10 study blocks to ensure academic focus.
+* **Study-Guard Logic:** The bot acts as a "Guardian," restricting distractions during focus hours.
+* **Knowledge Base:** Built-in tutorials for exchange setup, 2FA, and spot trading guides.
 
-### 💓 Volatility Heartbeat
-A proactive monitoring system that scans the market every 5 minutes. It sends instant Telegram/Discord alerts if price action becomes "unpredictable," keeping the user informed without requiring constant screen-watching.
-
----
-
-## 🛠 Tech Stack
-* **Framework:** [OpenClaw](https://github.com/open-claw/open-claw) (2026.3.13)
-* **Trading APIs:** Binance Spot/Perpetual, Bybit V5
-* **Language:** Python, PowerShell
-* **Intelligence:** Hunter Alpha (via OpenClaw Gateway)
+### 🛠️ Developer Toolkit & System Features
+* **Code Execution:** Ability to run Python/Shell commands and edit local files.
+* **Web Intelligence:** Integrated Brave Search API for real-world data fetching.
+* **Memory System:** Persistent daily and long-term notes for project tracking.
+* **Cross-Platform Messaging:** Fully functional across **Telegram**, **Discord**, and **WhatsApp**.
 
 ---
 
+## 🛠️ Technical Setup
 
+### Prerequisites
+* Python 3.10+
+* [OpenClaw Framework](https://github.com/OpenClaw/OpenClaw)
+* API Keys for Binance, Bybit, and OpenAI/GLM.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/yourusername/scholar-trader-agent.git](https://github.com/yourusername/scholar-trader-agent.git)
