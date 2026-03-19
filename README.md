@@ -1,39 +1,52 @@
-# 🦞 SSC Scholar-Trader: The Ultimate AI Agent for Student-Traders
-**An Autonomous Assistant built on the OpenClaw Framework with GLM-4.5-Air Integration.**
+# 🦞 SSC Scholar-Trader: Omni-Channel AI Agent Architect
+**An Autonomous Intelligence System built on OpenClaw & Hunter Alpha.**
 
-The **SSC Scholar-Trader** is designed to solve a unique problem: how to stay informed in the high-stakes world of crypto trading while maintaining the strict discipline required for academic excellence (specifically for the Bangladesh SSC 2026 exams).
+The **SSC Scholar-Trader** is a persistent digital entity designed to bridge the gap between high-stakes Binance trading and the academic discipline required for the Bangladesh SSC 2026 examinations. 
 
 ---
 
-##  Feature Arsenal
+## 🌌 The "Unified Brain" (Cross-Platform Neural Sync)
+Unlike standard bots, this Agent features **Synchronized Contextual Memory** across **Telegram, WhatsApp, and Discord**:
+
+* **Omni-Channel Continuity:** Start a study session on Discord, receive market alerts on WhatsApp, and review your notes on Telegram. The Agent maintains a single, unified state.
+* **Contextual Bridge:** Ask the Agent on Telegram: *"What did we discuss in the Discord dev channel?"*—it retrieves, summarizes, and synchronizes the discussion across platforms.
+* **Shared Long-Term Memory:** Trading insights, Pomodoro cycles, and personal notes are stored in a centralized "Vault" accessible from any connected app.
+
+---
+
+## 🚀 Feature Arsenal
 
 ### 💰 Financial Intelligence (Binance & Bybit)
-* **Multi-Exchange Monitoring:** Live balance checks for Binance and Bybit.
-* **Real-time Data:** BTC/BNB/ETH price feeds and 24h volume tracking.
-* **Deep Analysis:** Order book spread analysis and Bybit funding rate checks.
-* **Logic Reports:** AI-driven technical and sentiment analysis to simplify market noise.
+* **Real-time API Integration:** Live balance checks, price feeds (BTC/BNB/ETH), and 24h volume tracking.
+* **Market Analysis:** Order book spread analysis and Bybit funding rate monitoring.
+* **Logic Reports:** AI-driven technical + sentiment analysis to filter market noise and provide actionable insights.
 
-### 📚 Productivity & Study-Guard
-* **Pomodoro Integration:** Automated 50/10 study blocks to ensure academic focus.
-* **Study-Guard Logic:** The bot acts as a "Guardian," restricting distractions during focus hours.
-* **Knowledge Base:** Built-in tutorials for exchange setup, 2FA, and spot trading guides.
+### 📚 The "Scholar" Protocol (Study-Guard)
+* **Pomodoro Neural-Lock:** Automated 50/10 study blocks that enforce focus across all messaging platforms.
+* **Knowledge Base:** Instant access to exchange tutorials, spot trading guides, and security recovery help.
 
-### 🛠️ Developer Toolkit & System Features
-* **Code Execution:** Ability to run Python/Shell commands and edit local files.
-* **Web Intelligence:** Integrated Brave Search API for real-world data fetching.
-* **Memory System:** Persistent daily and long-term notes for project tracking.
-* **Cross-Platform Messaging:** Fully functional across **Telegram**, **Discord**, and **WhatsApp**.
+### 🛠️ System Sovereign (The Dev Toolkit)
+* **Autonomous Operations:** Read/write/edit local files and execute Python/Shell commands remotely via chat.
+* **Web Intelligence:** Integrated Brave Search API for real-time web browsing and URL content fetching.
+* **Skill Installation:** Modular design allowing for new capability installation via "ClawHub."
 
 ---
 
-## 🛠️ Technical Setup
+## 🛠️ Technical Architecture & Security
 
-### Prerequisites
-* Python 3.10+
-* [OpenClaw Framework](https://github.com/OpenClaw/OpenClaw)
-* API Keys for Binance, Bybit, and OpenAI/GLM.
+* **Framework:** OpenClaw
+* **LLM Core:** Hunter Alpha (OpenRouter API)
+* **Messaging:** Telegram Bot API, WhatsApp Business API, Discord SDK.
+* **Security:** Multi-layer API health checks and encrypted `.env` credential management.
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/scholar-trader-agent.git](https://github.com/yourusername/scholar-trader-agent.git)
+
+---
+
+## 👤 Author
+**Nowrid Ifrad Snigdho (@it_Nowrids_time)**
+*SSC 2026 Candidate | AI Agent Developer | Tech Enthusiast*
+
+---
+
+## 📜 License
+MIT. For educational and research purposes only. Always trade responsibly.
