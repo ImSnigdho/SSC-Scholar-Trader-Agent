@@ -11,9 +11,10 @@
 
 ## 🎯 What Is This?
 
-**SSC Crypto Assistant** is an AI-powered crypto companion that runs on OpenClaw and connects to your Telegram/Discord. It monitors markets, tracks your portfolio, sends smart alerts, and helps you trade — all through natural language.
+**SSC Scholar-Trader is a persistent, "Soul-driven" AI Agent built on the OpenClaw framework. It isn't just a bot; it’s a cross-platform companion designed to bridge the gap between high-stakes Binance trading and the academic discipline required for success.
 
-**No terminal needed. No complex setup. Just chat.**
+Whether you are at your desk on Discord, on the go with WhatsApp, or staying private on Telegram, the Agent maintains a Unified Neural Memory. It monitors global markets, manages your portfolio, and enforces 50/10 Pomodoro study blocks—all through natural language.
+**Just a seamless, intelligent conversation that protects your time and your trades.**
 
 ---
 
