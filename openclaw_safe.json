@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.3.13",
+    "lastTouchedAt": "2026-03-17T14:32:35.497Z"
+  },
+  "wizard": {
+    "lastRunAt": "2026-03-17T14:32:35.121Z",
+    "lastRunVersion": "2026.3.13",
+    "lastRunCommand": "doctor",
+    "lastRunMode": "local"
+  },
+  "auth": {
+    "profiles": {
+      "google:default": {
+        "provider": "google",
+        "mode": "api_key"
+      },
+      "deepseek:default": {
+        "provider": "deepseek",
+        "mode": "api_key"
+      },
+      "openrouter:default": {
+        "provider": "openrouter",
+        "mode": "api_key"
+      }
+    }
+  },
+  "models": {
+    "mode": "merge",
+    "providers": {
+      "deepseek": {
+        "baseUrl": "https://api.deepseek.com",
+        "apiKey": "API_KEY_HERE",
+        "api": "openai-completions",
+        "models": [
+          {
+            "id": "deepseek-chat",
+            "name": "DeepSeek Chat",
+            "contextWindow": 128000
+          }
+        ]
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "openrouter/openrouter/hunter-alpha"
+      },
+      "models": {
+        "openrouter/openrouter/hunter-alpha": {
+          "alias": "Hunter-Alpha"
+        },
+        "openrouter/z-ai/glm-4.5-air:free": {
+          "alias": "GLM-Air"
+        }
+      },
+      "workspace": "C:\\Users\\Snigdho\\.openclaw\\workspace"
+    }
+  },
+  "tools": {
+    "profile": "coding"
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "hooks": {
+    "internal": {
+      "enabled": true,
+      "entries": {
+        "boot-md": {
+          "enabled": true
+        },
+        "session-memory": {
+          "enabled": true
+        }
+      }
+    }
+  },
+  "channels": {
+    "whatsapp": {
+      "enabled": true,
+      "dmPolicy": "allowlist",
+      "selfChatMode": true,
+      "allowFrom": [
+        "WHATSAPP_NUMBER_HERE"
+      ],
+      "groupPolicy": "allowlist",
+      "debounceMs": 0,
+      "mediaMaxMb": 50
+    },
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing",
+      "botToken": "TOKEN_KEY_HERE",
+      "groupPolicy": "allowlist",
+      "streaming": "partial"
+    },
+    "discord": {
+      "enabled": true,
+      "token": "TOKEN_KEY_HERE",
+      "groupPolicy": "allowlist",
+      "streaming": "off",
+      "allowFrom": [
+        "CHANNEL_ID_HERE"
+      ]
+    }
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "TOKEN_KEY_HERE"
+    },
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    }
+  },
+  "skills": {
+    "entries": {
+      "binance": {
+        "env": {
+          "BINANCE_API_KEY": "BINANCE_API_KEY_HERE",
+          "BINANCE_API_SECRET": "BINANCE_API_SECRET_HERE"
+        }
+      },
+      "bybit": {
+        "env": {
+          "BYBIT_API_KEY": "BYBIT_API_KEY_HERE",
+          "BYBIT_API_SECRET": "BYBIT_API_SECRET_HERE"
+        }
+      }
+    }
+  },
+  "plugins": {
+    "entries": {
+      "telegram": {
+        "enabled": true
+      },
+      "whatsapp": {
+        "enabled": true
+      }
+    }
+  }
+}
