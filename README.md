@@ -9,7 +9,7 @@ The **SSC Scholar-Trader** is a persistent digital entity designed to bridge the
 Unlike standard bots, this Agent features **Synchronized Contextual Memory** across **Telegram, WhatsApp, and Discord**:
 
 * **Omni-Channel Continuity:** Start a study session on Discord, receive market alerts on WhatsApp, and review your notes on Telegram. The Agent maintains a single, unified state.
-* **Contextual Bridge:** Ask the Agent on Telegram: *"What did we discuss in the Discord dev channel?"*—it retrieves, summarizes, and synchronizes the discussion across platforms.
+* **Contextual Bridge:** Ask the Agent on Telegram: *"What did we discuss in the Discord dev channel?"* it retrieves, summarizes, and synchronizes the discussion across platforms.
 * **Shared Long-Term Memory:** Trading insights, Pomodoro cycles, and personal notes are stored in a centralized "Vault" accessible from any connected app.
 
 ---
