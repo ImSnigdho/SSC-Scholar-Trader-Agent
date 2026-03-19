@@ -27,7 +27,6 @@ Unlike standard bots, this Agent features **Synchronized Contextual Memory** acr
 
 ### 🛠️ System Sovereign (The Dev Toolkit)
 * **Autonomous Operations:** Read/write/edit local files and execute Python/Shell commands remotely via chat.
-* **Web Intelligence:** Integrated Brave Search API for real-time web browsing and URL content fetching.
 * **Skill Installation:** Modular design allowing for new capability installation via "ClawHub."
 
 ---
