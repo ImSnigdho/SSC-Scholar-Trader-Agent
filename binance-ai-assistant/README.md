@@ -19,6 +19,11 @@
 
 ## ✨ Features
 
+###🌐 Omni-Channel Neural Sync 
+- Cross-Platform Memory: Unified memory shared across Telegram, WhatsApp, and Discord.
+- Contextual Bridge: Ask on Telegram about a discussion that happened on Discord; the agent retrieves and summarizes the context.
+- Persistent State: Your alerts and settings follow you regardless of which app you use.
+
 ### 🔔 Smart Price Alerts
 - Monitors BTC & ETH prices every 5 minutes
 - Automatic alerts when price moves >2% in 1 hour
