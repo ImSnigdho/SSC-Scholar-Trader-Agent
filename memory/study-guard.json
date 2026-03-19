@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "crypto_start_time": "2026-03-17T20:43:00+06:00",
+  "reminder_after_minutes": 5,
+  "subject": "English",
+  "pomodoro": {
+    "work_minutes": 50,
+    "break_minutes": 10
+  },
+  "last_reminder_sent": null,
+  "reminders_sent_today": 0
+}

@@ -1,0 +1,37 @@
+{
+  "btcHistory": [
+    {
+      "price": 73673.60,
+      "timestamp": 1742200861000
+    },
+    {
+      "price": 73689.92,
+      "timestamp": 1742200861000
+    }
+  ],
+  "ethHistory": [
+    {
+      "price": 2310.11,
+      "timestamp": 1742200861000
+    },
+    {
+      "price": 2310.73,
+      "timestamp": 1742200861000
+    }
+  ],
+  "lastAlertBtc": null,
+  "lastAlertEth": null,
+  "apiStatus": {
+    "binance": {
+      "status": "online",
+      "outageStart": null,
+      "lastCheck": 1742200861000
+    },
+    "bybit": {
+      "status": "online",
+      "outageStart": null,
+      "lastCheck": 1742200861000
+    }
+  },
+  "connectionAlertSent": false
+}
