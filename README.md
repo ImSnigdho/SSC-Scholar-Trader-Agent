@@ -39,6 +39,8 @@ Unlike standard bots, this Agent features **Synchronized Contextual Memory** acr
 * **Security:** Multi-layer API health checks and encrypted `.env` credential management.
 
 
+### ⚙️ Installation
+1.  **Clone the Repo:** `git clone https://github.com/it_Nowrids_time/scholar-trader.git`
 ---
 
 ## 👤 Author
