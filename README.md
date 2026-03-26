@@ -1,5 +1,5 @@
 # 🦞 SSC Scholar-Trader: Omni-Channel AI Agent Architect
-**An Autonomous Intelligence System built on OpenClaw & Hunter Alpha.**
+**An Autonomous Intelligence System built on OpenClaw & Hunter Alpha (Early version of Xiaomi Mimo V2 Pro).**
 
 The **SSC Scholar-Trader** is a persistent digital entity designed to bridge the gap between high-stakes Binance trading and the academic discipline required for the Bangladesh SSC 2026 examinations. 
 
